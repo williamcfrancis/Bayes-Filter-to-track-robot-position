@@ -8,4 +8,4 @@ The filter begins with a uniform prior on all states, meaning that the probabili
 
 Given a stream of actions and corresponding observations, the Bayes filter uses probabilistic techniques to estimate the robot's current position.
 ### Run the code
-Simply run the ``
+Simply run the `histogram_filter.py` file

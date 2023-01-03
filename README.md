@@ -1,4 +1,4 @@
-## Track Robot position using Bayes Filter
+## Tracking Robot Position Using Bayesian Filtering
 ### Overview
 This project implements a Bayes filter to track the position of a robot operating in a 2D grid world. The robot is equipped with a noisy odometer and a noisy color sensor. The grid world consists of cells that are characterized by a color (0 or 1). The color sensor reads the color of the cell correctly with probability 0.9 and incorrectly with probability 0.1.
 
